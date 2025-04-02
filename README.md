@@ -11,7 +11,7 @@
   <img src="https://img.shields.io/badge/Lives-Sri%20Lanka-success" />
   <img src="https://img.shields.io/badge/Languages-English%20%26%20Sinhala-brightgreen" />
 </p>
-<a href="https://mraddict.one](https://my-portfolio1-0-sigma.vercel.app/" target="_blank">
+<a href="https://my-portfolio1-0-sigma.vercel.app/" target="_blank">
     <img
       height="35"
       alt="microsoft-outlook logo"
