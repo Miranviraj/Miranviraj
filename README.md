@@ -82,6 +82,14 @@
 
 <br>
 
+<p align="center">
+<div align=center>
+  <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
+      <img align="center" width=100% src="https://github-profile-trophy.vercel.app/?username=miranviraj&theme=radical&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
+    </a>
+</div>
+</p>
+
 
 
 
@@ -92,6 +100,8 @@
       alt="Miran virajith" height="30" width="40" /></a>
   <a href="https://www.facebook.com/share/16GoaocRdT/" target="blank"><img align="center" src="https://raw.githubusercontent.com/SubhadeepZilong/SubhadeepZilong/main/icons/Social/facebook.svg" alt="subhadeep.chakraborty.555" height="30" width="40" /></a>
   </a> &nbsp;&nbsp;
+
+   
 
   
 </p>
