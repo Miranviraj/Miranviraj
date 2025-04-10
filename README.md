@@ -15,13 +15,20 @@
     <img
       height="35"
       alt="microsoft-outlook logo"
-      src="https://img.shields.io/static/v1?message=Website&logo=microsoft-outlook&label=&color=7F167F&logoColor=white&labelColor=&style=for-the-badge"
+      src="https://img.shields.io/static/v1?message=Website&logo=portfolio&label=&color=7F167F&logoColor=white&labelColor=&style=for-the-badge"
     />
   </a>
+<a href="https://drive.google.com/file/d/1IFUivTiZE0XEXWJ1CtUhqzAb7_t143mW/view?usp=drive_link" target="_blank">
+<img
+  height="35"
+  src="https://img.shields.io/static/v1?message=Download_Resume&logo=Resume&label=&color=4169E1&logoColor=white&labelColor=&style=for-the-badge"
+/>
+  </a>
+  
 <hr>
 <div align="center">
 
-   <h1>🚀 Hello there I'm Miran Virajith Devinda 🚀</h1>
+   <h1>🚀 Hello there I'm Miran Virajith Devinda 🚀</h1> 
    <p>
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=FFA500&size=20&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Software+Engineering+Undergraduate" /></a>
 </p></div>
@@ -37,8 +44,10 @@
 <div align="center">
    <img align="center" alt="Coding" width="450" src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e">
 <hr>
-   <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;<h2>Used Technologies...</h2>
-<p align="left">
+ 
+  ## Used Languages and Technologies<img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> 
+ 
+ <p align="left">
     <div align="center">
         <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="Java" width="80">
         <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="HTML" width="80">
@@ -48,7 +57,9 @@
            <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" alt="React" width="80">
     </div>
   <div align="center">
-    <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;<h2>My working tools...</h2>
+   
+   ## My Working Tools<img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> 
+
 <p align="left">
     <div align="center">
         <img src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original.svg" alt="Intellij" width="80">
@@ -72,12 +83,24 @@
   <br>
   <hr>
 <div align="center">
-  <h3>Statistical Data :-</h3>
-  <img  src="https://github-readme-stats.vercel.app/api?username=miranviraj&include_all_commits=true&count_private=true&show_icons=true&line_height=30&title_color=CDB4DB&icon_color=CDB4DB&text_color=D3D3D3&bg_color=0A0A0A" 
-       alt="Miranviraj" width="400" />
-  &nbsp;&nbsp;&nbsp; <!-- Adds spacing between the images -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=miranviraj&layout=compact&theme=dark&bg_color=0A0A0A" 
-       alt="Miranviraj" width="400" />
+ <div align="center">
+ <h3><img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 35px> Statistical Data :-</h3></div>
+ <!-- Dark Mode Stats (Catppuccin Mocha Theme) -->
+<a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
+  <img height=200 src="https://github-readme-stats.vercel.app/api?username=miranviraj&show_icons=true&theme=algolia#gh-dark-mode-only" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
+  <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=miranviraj&layout=compact&langs_count=8&hide=jupyter%20notebook&card_width=330&theme=algolia#gh-dark-mode-only" />
+</a>
+
+<!-- Light Mode Stats (Vue Theme) -->
+<a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
+  <img height=200 src="https://github-readme-stats.vercel.app/api?username=miranviraj&show_icons=true&theme=vue#gh-light-mode-only" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
+  <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=miranviraj&layout=compact&langs_count=8&hide=jupyter%20notebook&card_width=330&theme=vue#gh-light-mode-only" />
+</a>
+
 </div>
 
 <br>
@@ -99,7 +122,14 @@
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
       alt="Miran virajith" height="30" width="40" /></a>
   <a href="https://www.facebook.com/share/16GoaocRdT/" target="blank"><img align="center" src="https://raw.githubusercontent.com/SubhadeepZilong/SubhadeepZilong/main/icons/Social/facebook.svg" alt="subhadeep.chakraborty.555" height="30" width="40" /></a>
+ 
   </a> &nbsp;&nbsp;
+  <a href="https://drive.google.com/file/d/1IFUivTiZE0XEXWJ1CtUhqzAb7_t143mW/view?usp=drive_link" target="_blank">
+<img
+  height="35"
+  src="https://img.shields.io/static/v1?message=Download_Resume&logo=Resume&label=&color=4169E1&logoColor=white&labelColor=&style=for-the-badge"
+/>
+  </a>
 
    
 
@@ -112,4 +142,7 @@
 <div align="center">
   <img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="20%">
 </div>
+
+
+
 
