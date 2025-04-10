@@ -6,6 +6,7 @@
 <img src="https://komarev.com/ghpvc/?username=miranviraj&color=brightgreen" alt="watching_count" />
  </p>
  <p align="center">
+ 
 <img src="https://img.shields.io/badge/Age-24-blue" />
   <img src="https://img.shields.io/badge/Focus-Web%20&%20Mobile_App_development-brightgreen" />
   <img src="https://img.shields.io/badge/Lives-Sri%20Lanka-success" />
@@ -30,6 +31,7 @@
 
    <h1>🚀 Hello there I'm Miran Virajith Devinda 🚀</h1> 
    <p>
+    <h1>Front-End_Developer(Intern)</h1>
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=FFA500&size=20&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Software+Engineering+Undergraduate" /></a>
 </p></div>
    <div align="center">
