@@ -16,9 +16,10 @@
     <img
       height="35"
       alt="microsoft-outlook logo"
-      src="https://img.shields.io/static/v1?message=Website&logo=portfolio&label=&color=7F167F&logoColor=white&labelColor=&style=for-the-badge"
+      src="https://img.shields.io/static/v1?message=Portfolio&logo=portfolio&label=&color=7F167F&logoColor=white&labelColor=&style=for-the-badge"
     />
   </a>
+  &nbsp;&nbsp;
 <a href="https://drive.google.com/file/d/1IFUivTiZE0XEXWJ1CtUhqzAb7_t143mW/view?usp=drive_link" target="_blank">
 <img
   height="35"
@@ -123,7 +124,7 @@
   <a href="https://www.linkedin.com/in/miran-virajith-devinda-8b5094294" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
       alt="Miran virajith" height="30" width="40" /></a>
-  <a href="https://www.facebook.com/share/16GoaocRdT/" target="blank"><img align="center" src="https://raw.githubusercontent.com/SubhadeepZilong/SubhadeepZilong/main/icons/Social/facebook.svg" alt="subhadeep.chakraborty.555" height="30" width="40" /></a>
+  <a href="https://www.facebook.com/share/16GoaocRdT/" target="blank"><img align="center" src="https://raw.githubusercontent.com/SubhadeepZilong/SubhadeepZilong/main/icons/Social/facebook.svg" alt="miran" height="30" width="40" /></a>
  
   </a> &nbsp;&nbsp;
   <a href="https://drive.google.com/file/d/1IFUivTiZE0XEXWJ1CtUhqzAb7_t143mW/view?usp=drive_link" target="_blank">
