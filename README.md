@@ -20,7 +20,7 @@
     />
   </a>
   &nbsp;&nbsp;
-<a href="https://drive.google.com/file/d/1IFUivTiZE0XEXWJ1CtUhqzAb7_t143mW/view?usp=drive_link" target="_blank">
+<a href="https://drive.google.com/file/d/1GmfbnWGRFajdrFFApyV4M-kYMDw1Jt0Q/view?usp=sharing" target="_blank">
 <img
   height="35"
   src="https://img.shields.io/static/v1?message=Download_Resume&logo=Resume&label=&color=4169E1&logoColor=white&labelColor=&style=for-the-badge"
