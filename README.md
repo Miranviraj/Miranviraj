@@ -78,7 +78,7 @@
  <h3 align="left">
         <ul> 
         <li>👨‍🎓 I'm a Software engineering Undergraduate At  the CINEC Campus Malabe</li>
-        <li>💼 I'm currently looking for 6-month internship on Front-End Development</li>
+        <li>💼 I'm currently looking for 6-month internship on Mobile or Web Application Development</li>
         <li>💬 Ask me about anything you want</li>
         <li>📫 How to reach me:virajithdevinda57@gmail.com</li>
         </ul>
